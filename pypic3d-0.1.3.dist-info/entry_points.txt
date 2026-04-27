@@ -1,2 +1,0 @@
-[console_scripts]
-PyPIC3D = PyPIC3D.__main__:main
