@@ -37,7 +37,7 @@ Another of my future goals with this project is to implement an arbitrary extern
 
 ## PyPIC3D Simulation Tool
 
-PyPIC3D IS NOT MY WORK. Please go to https://github.com/uwplasma/PyPIC3D for the official commit of this phenomenal tool. Its README is included here for convenience, as a large portion of this project is done with its functionality.
+PyPIC3D IS NOT MY WORK. Please go to https://github.com/uwplasma/PyPIC3D for the official public commit of this tool. Its README is included here for convenience, as a large portion of this project is done with its functionality.
 
 
 <div align="center">
