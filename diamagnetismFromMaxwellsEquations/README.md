@@ -8,7 +8,7 @@ This project was made to provide a structure accommodating the study of diamagne
 
 ## Disclaimer
 
-This project is currently just a PyCharm project uploaded to Github, and must stay that way for now. PyPIC3D's official PyPi release is nonfunctional, and part of the convenience of this project is its manual inclusion into PyCharm. Be careful not to install PyPIC3D via any automatic means.
+This project is currently just a PyCharm project uploaded to Github, and must stay that way for now. PyPIC3D's official PyPi release is nonfunctional, and part of the convenience of this project is its manual inclusion into PyCharm under its most recent Github commit (which is functional, of course). Be careful not to install PyPIC3D via any automatic means, or else things will break very quickly.
 
 ## How to Use
 
