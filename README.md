@@ -30,7 +30,7 @@ It is possible but rather involved to configure an external B-field for your sim
 
 Due to the roughness of creating such a representation of the external B-field, each demo with one of them has a Python file dedicated to the creation of their NumPy arrays. So far, I haven't made a methodical way to do this.
 
-In the wire-loop demonstration, the external B-field was modeled by numerically calculating the Biot-Savart integral on a mesh of points with the same grid shape as that of the PyPIC3D fields (stated as (Nx, Ny, Nz in the config files).
+In the wire-loop demonstration, the external B-field was modeled by numerically calculating the Biot-Savart integral on a mesh of points with the same grid shape as that of the PyPIC3D fields (stated as (Nx, Ny, Nz in the config files). This process was executed separately with MATLAB.
 
 Another of my future goals with this project is to implement an arbitrary external B-field inclusion method that is low-effort on the user's end.
 
