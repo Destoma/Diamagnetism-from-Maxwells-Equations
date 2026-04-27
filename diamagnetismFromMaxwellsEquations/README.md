@@ -32,7 +32,7 @@ Due to the roughness of creating such a representation of the external B-field, 
 
 In the wire-loop demonstration, the external B-field was modeled by numerically calculating the Biot-Savart integral on a mesh of points with the same grid shape as that of the PyPIC3D fields (stated as (Nx, Ny, Nz in the config files).
 
-Another of my future goals with this project is to implement a low-effort arbitrary external B-field inclusion method.
+Another of my future goals with this project is to implement an arbitrary external B-field inclusion method that is low-effort on the user's end.
 
 
 ## PyPIC3D Simulation Tool
