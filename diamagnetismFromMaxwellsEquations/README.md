@@ -1,8 +1,9 @@
+PyPIC3D IS NOT MY WORK. See https://github.com/uwplasma/PyPIC3D for the official commit of this phenomenal tool. Its README is included here for convenience, as a large portion of this project is done with its functionality.
+
+
 <div align="center">
   <img src="docs/images/PyPICLogo.png" alt="PyPIC3D Logo" width="400">
 </div>
-
-PyPIC3D IS NOT MY WORK. See https://github.com/uwplasma/PyPIC3D for the official commit of this phenomenal tool. Its README is included here for convenience, as a large portion of this project is done with its functionality.
 
 ## PyPIC3D
 
