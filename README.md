@@ -16,11 +16,11 @@ In order for this project to work, you need to copy the directories in the folde
 
 # How to Use
 
-To find a simulation, go into the `demos` folder and pick a demonstration. In each folder you'll find a `.toml` file, which are this tool's config files. Their contents are somewhat self-explanatory, and their parameters can be adjusted freely to configure your simulation.
+To find a simulation, go into the `demos` folder and pick a demonstration. In each folder you'll find a `.toml` file, which are this tool's config files. Their contents are somewhat self-explanatory, and their parameters can be adjusted freely to configure your simulation. The only parameter which I found to be useful which isn't in the current project is `dt` under `[simulation-parameters]`, the timestep of the system.
 
 To run this simulation, simply enter `python PyPIC3D --config demos/DEMONAME/CONFIGNAME.toml` into the console.
 
-The results chosen to be returned from the simulation (via the `[plotting_parameters]` section of the config file) will be sent to a `data/data` directory in the project, whether one already exists or not. To view the results, run the `particle_analysis.py` and `field_analysis.py` programs. Both take a while to execute, and the plot axis limits must be adjusted manually (for now). 
+The results chosen to be returned from the simulation (via the `[plotting]` section of the config file) will be sent to a `data/data` directory in the project, whether one already exists or not. To view the results, run the `particle_analysis.py` and `field_analysis.py` programs. Both take a while to execute, and the plot axis limits must be adjusted manually (for now). 
 
 The `particle_analysis` axis limits in particular must be centered at the origin, as this is the way particle positions are implemented in PyPIC3D.
 
